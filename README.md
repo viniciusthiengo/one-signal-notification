@@ -4,9 +4,9 @@ Projeto Java Android do artigo [OneSignal Para Notificações em Massa no Androi
 
 Artigo que apresenta em detalhes a ferramenta OneSignal, uma *toolkit* para o fácil trabalho com notificações push também no ambiente Android.
 
-Com uma rápida configuração é possível ter o melhor do [FCM (Firebase Cloud Messaging)](https://www.thiengo.com.br/fcm-android-dominio-do-problema-implementacao-e-testes-com-servidor-de-aplicativo-parte-1) sem termos que construir todo um backend Web para somente envio de notificações push.
+Com uma rápida configuração é possível ter o melhor do [FCM (Firebase Cloud Messaging)](https://www.thiengo.com.br/fcm-android-dominio-do-problema-implementacao-e-testes-com-servidor-de-aplicativo-parte-1) sem a necessidade que construir todo um backend Web para somente envio de notificações push.
 
-<img src="https://www.thiengo.com.br/img/post/normal/c623o3g9263s431aph41269i8391cc2dcf67917ce15d96a35b621b9f08.jpg" width="220" alt="Tela do aplicativo Android de teste do artigo OneSignal Para Notificações em Massa no Android">
+<img src="https://www.thiengo.com.br/img/post/normal/c623o3g9263s431aph41269i8391cc2dcf67917ce15d96a35b621b9f08.jpg" width="200" alt="Tela do aplicativo Android de teste do artigo OneSignal Para Notificações em Massa no Android">
 
 O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/onesignal-para-notificacoes-em-massa-no-android#title-4).
 
